@@ -42,7 +42,7 @@ After a deep dive into the numbers, here is what stands out:
 
 ![Executive Commercial Dashboard](Dashboard/global_electronics_retailer.png)
 
-> **Interactive Version:** [View the Live Google Data Studio Dashboard Here](https://datastudio.google.com/reporting/fa952fc2-3cd4-4353-b6b3-6b2d91f87861)
+> **Interactive Version:** [View the Live Tableau Public Dashboard Here](https://public.tableau.com/views/GlobalElectronicsRetailerExecutiveCommercialDashboard/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 **David Sebastian Aritonang**  
